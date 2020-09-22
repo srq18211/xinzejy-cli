@@ -1,2 +1,2 @@
-#!/usr/bin/ node
+#!/usr/bin/env node
 console.log('cli ... 666')
