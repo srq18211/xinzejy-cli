@@ -1,6 +1,6 @@
 {
   "bin": {
-    "xz":"./bin/kkb.js"
+    "xz": "./bin/kkb.js"
   },
   "name": "xzcli",
   "version": "1.0.0",
