@@ -1,1 +1,0 @@
-"# vue-tob-component-template" 
