@@ -6,8 +6,8 @@
   "version": "2.0.2",
   "description": "",
   "main": "index.js",
-  "homepage": "git@github.com:srq18211/xinzejy-cli.git",
-  "Repository": "git@github.com:srq18211/xinzejy-cli.git",
+  "homepage": "https://github.com/srq18211/xinzejy-cli",
+  "Repository": "https://github.com/srq18211/xinzejy-cli",
   "scripts": {
     "test": "./bin/xz"
   },
