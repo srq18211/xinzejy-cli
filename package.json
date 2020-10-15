@@ -7,7 +7,10 @@
   "description": "",
   "main": "index.js",
   "homepage": "https://github.com/srq18211/xinzejy-cli",
-  "Repository": "https://github.com/srq18211/xinzejy-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srq18211/xinzejy-cli"
+  },
   "scripts": {
     "test": "./bin/xz"
   },
