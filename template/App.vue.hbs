@@ -1,0 +1,15 @@
+<template>
+  <div id="app">
+    <div id="nav">
+      <router-link to="/">Home</router-link> 
+      {{#each list}}
+      <router-link to="/{{name}}">{{name}}</router-link>
+      {{/each}}
+    </div>
+    <router-view/>
+  </div>
+</template>
+
+<style>
+
+</style>
