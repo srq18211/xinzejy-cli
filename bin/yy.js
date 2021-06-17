@@ -8,7 +8,7 @@ program.command('init <name>')
   .action(require('../lib/init'));
 
 program.command('g <name>')
-  .option('-t --template', 'set template')
+  // .option('-t --template', 'set template')
   .description('generate page,router')
   .action(require('../lib/generat.js'));
 program.parse(process.argv);
