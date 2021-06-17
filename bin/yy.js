@@ -10,5 +10,6 @@ program.command('init <name>')
 program.command('g <name>')
   .option('-t --template', 'set template')
   .description('generate page,router')
-  .action(require('../lib/refresh'));
+  .action(require('../lib/generat.js'));
 program.parse(process.argv);
+
